@@ -6,6 +6,7 @@ package pos.layered;
 
 import pos.layered.view.LayoutView;
 
+
 /**
  *
  * @author Damith
@@ -16,7 +17,7 @@ public class PosLayered {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new LayoutView().setVisible(true);
+         new LayoutView().setVisible(true);
     }
     
 }
